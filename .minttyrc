@@ -1,0 +1,17 @@
+Columns=140
+Rows=40
+Font=CaskaydiaCove NFM
+FontHeight=14
+ThemeFile=dracula
+Transparency=8
+OpaqueWhenFocused=yes
+CursorType=block
+FontSmoothing=full
+AllowBlinking=yes
+FontWeight=400
+FontIsBold=no
+StatusLine=yes
+Term=xterm-256color
+DimAsFont=yes
+BoldAsFont=yes
+BoldAsColour=yes
